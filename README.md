@@ -1,1 +1,1 @@
-# c++-basic
+# C++ basic
