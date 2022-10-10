@@ -17,12 +17,12 @@
 - Clone on your local machine
 
 ```
-git clone https://github.com/ratnesh-maurya/your_contribution
+git clone https://github.com/ratnesh-maurya/Cpp-basic
 
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest2022
+cd Cpp-basic
 ```
 
 - Create a new Branch
