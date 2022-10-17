@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//time complexcity
 int partition(int arr[], int start, int end)
 {
 	int pivot = arr[start];
