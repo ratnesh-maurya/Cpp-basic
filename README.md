@@ -1,7 +1,7 @@
 # 📌Important
-# Do not add any pre existing solution.
-# Do not copy paste someone else code.
-# Do not try to spam.
+# Do not add any pre existing solution...
+# Do not copy paste someone else code...
+# Do not try to spam...
 -----------------------------------------------------
 ---------------------------------------------------------
 
@@ -34,7 +34,7 @@ git checkout -b my-new-branch
 ```
 git add .
 ```
-- Commit your changes.
+- Commit your changes...
 
 ```markdown
 git commit -m "Relevant message"
