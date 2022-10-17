@@ -1,20 +1,22 @@
 #include<iostream>
 using namespace std;
 
+
+
 // time complexity  O(logn)
 
 int main(){
 	int n;
-	cout<<"Enter the size of array "<<endl;
+	cout<<"Enter the size array "<<endl;
 	cin>>n;
 	int arr[n],s,e,mid,x;
 //	s=start,e=end,m=mid
-	cout<<"Enter the element of array "<<endl;
+	cout<<"Enter the element  array "<<endl;
 	for(int i=0;i<n;i++){
 		cin>>arr[i];
 	}
 	int item;
-	cout<<"Enter the element to search "<<endl;
+	cout<<"Enter the element  search "<<endl;
 	cin>>item;
 	s=0;
 	e=n;
