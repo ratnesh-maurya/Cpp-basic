@@ -30,4 +30,5 @@ else
     cout<<"not armstrong number";
 }
 
+return 0;
 }
