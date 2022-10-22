@@ -1,5 +1,5 @@
 
-# Give aa star ✨ if you like 🤠
+# Give a star ✨ if you like 🤠
 # 📌Important
 # Do not add any pre existing solution...
 # Do not copy paste someone else code...
